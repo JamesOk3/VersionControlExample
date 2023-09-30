@@ -14,4 +14,8 @@ public class HellowWorld {
         // A method to add two numbers
         return a + b;
     }
+
+    public static void randomMethod () {
+        System.out.println("Random Method");
+    }
 }
