@@ -5,6 +5,8 @@ public class HellowWorld {
 
         System.out.println("tWo numbers addition");
 
+        System.out.println("Another Test");
+
         System.out.println(addition(250, 300));
     }
 
